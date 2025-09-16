@@ -1,3 +1,5 @@
+E-COMMERCE SALE DASHBOARD
+
 This dashboard provides a comprehensive overview of E-commerce sales performance, helping to analyze revenue, profit, quantity, states, customer purchases, and payment preferences.
 
 🔹 Key Metrics
@@ -55,3 +57,4 @@ Power BI
 Dataset: E-commerce sales dataset
 
 Example-
+https://github.com/Priyanshure/E-commerce-sale-power-bi-/blob/main/E-commerce%20sale%20dashboard.png
